@@ -1,0 +1,2 @@
+### MY PHP LEARNING
+- the aim of this directory is to document my learning progress n PHP with respect to web development. as i continue to learn, i will also try as much as possible to update the readme section and the codes of the web application in php and other programming technologies.
